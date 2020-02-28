@@ -76,7 +76,7 @@ accent_image:          /assets/icons/background.png
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           '#3fa757'    ## green leaf
+#theme_color:           '#3fa757'    ## green leaf
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
