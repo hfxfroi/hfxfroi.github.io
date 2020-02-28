@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://lvii.github.io
+url:                   https://hfxfroi.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 小马过河
+title:                 飞翔
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  **纸上得来终觉浅** <br/> **绝知此事要躬行**
+  **踏踏实实做事** <br/> **细节决定成败**
 
 # A list of keywords for your blog.
 keywords:              [linux, opensource]
@@ -40,10 +40,10 @@ keywords:              [linux, opensource]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                lvii
-  email:               volcanowill@gmail.com
+  name:                hfxfroi
+  email:               hfxfroi@qq.com
   # Used by `jekyll-seo-tag`:
-  github:              lvii
+  github:              hfxfroi
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -121,7 +121,7 @@ google_analytics:      UA-125236126-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                lvii
+disqus:                hfxfroi
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -292,7 +292,7 @@ remote_theme: qwtel/hydejack@v8.5.2
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://github.com/lvii
+#     - https://github.com/hfxfroi
 
 
 # Other Plugins
