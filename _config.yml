@@ -24,11 +24,11 @@ title:                 飞翔
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  blog about linux system administration and opensource
+  Bioinformation
 
 # A shorter description for the sidebar.
 tagline:               >
-   **踏踏实实做事** <br/> **细节决定成败**
+  **细节决定成败**
 
 # A list of keywords for your blog.
 keywords:              [Bioinformation,Python,R,Linux]
