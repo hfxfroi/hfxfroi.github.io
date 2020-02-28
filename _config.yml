@@ -68,8 +68,9 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          none
-accent_color:          '#3fa757'    ## green leaf
+#accent_image:          none
+accent_image:          /assets/icons/background.png
+#accent_color:          '#3fa757'    ## green leaf
 #accent_color:          '#4683e9'    ## google blue
 
 # This is used for the `theme-color` meta tag,
