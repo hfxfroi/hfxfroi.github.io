@@ -7,7 +7,7 @@ tags: [Markdown]
 
 `Markdown` 是一种轻量级的**标记语言**
 
-# 它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。
+### 它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。
 
 1. 专注你的文字内容而不是排版样式，安心写作。
 2. 轻松的导出 HTML、PDF 和本身的 .md 文件。
@@ -18,22 +18,26 @@ tags: [Markdown]
 > 我们坚信写作写的是内容，所思所想，而不是花样格式。 — Ulysses for Mac
 
 图片链接：
+
 ![picture](https://www.easyicon.net/api/resizeApi.php?id=1168350&size=128)
 
 网站链接：
+
 [baidu](https://www.baidu.com/)
 
-**粗体字
+**粗体字**
 
-*斜体字
+*斜体字*
 
 ***
 
 ## Python
-`import os
+```
+import os
 for line in f: 
   line.strip()  
-  print(line)`
+  print(line)
+```
 
 
 
