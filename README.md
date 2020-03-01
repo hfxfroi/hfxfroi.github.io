@@ -246,18 +246,18 @@ https://fonts.google.com/specimen/Noto+Serif+SC
 ## serve
 
     $ bundle exec jekyll serve --host 0.0.0.0 -w -b /tech
-    Configuration file: /home/user/lvii.github.io/_config.yml
+    Configuration file: /home/user/hfxfroi.github.io/_config.yml
     Invalid theme folder: _sass
           Remote Theme: Using theme qwtel/hydejack
-                Source: /home/user/lvii.github.io
-           Destination: /home/user/lvii.github.io/_site
+                Source: /home/user/hfxfroi.github.io
+           Destination: /home/user/hfxfroi.github.io/_site
      Incremental build: disabled. Enable with --incremental
           Generating...
     Invalid theme folder: _sass
           Remote Theme: Using theme qwtel/hydejack
            Jekyll Feed: Generating feed for posts
                         done in 11.187 seconds.
-     Auto-regeneration: enabled for '/home/user/lvii.github.io'
+     Auto-regeneration: enabled for '/home/user/hfxfroi.github.io'
         Server address: http://0.0.0.0:4000/tech/
       Server running... press ctrl-c to stop.
 
