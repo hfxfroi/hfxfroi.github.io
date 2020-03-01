@@ -9,9 +9,9 @@ menu: true
 order: 3
 ---
 
-> 为 **生物信息** 奉献终生！
+> 为 **生物信息** 奉献终生！Just do it.
 
-Just do it.
+---
 
 # 联系方式
 
@@ -23,15 +23,15 @@ Just do it.
 
 # 个人信息
 
- - 飞翔/男/1992 
- - 硕士/生物医学工程 
- - 工作经验：2年
- - 博客：https://hfxfroi.github.io/
- - Github：https://github.com/hfxfroi
+- 飞翔/男/1992 
+- 硕士/生物医学工程 
+- 工作经验：2年
+- 博客：https://hfxfroi.github.io/
+- Github：https://github.com/hfxfroi
 
- - 期望职位：生物信息工程师
- - 期望薪资：税前月薪15k~20k
- - 期望城市：北京
+- 期望职位：生物信息工程师
+- 期望薪资：税前月薪15k~20k
+- 期望城市：北京
 
 ---
 
