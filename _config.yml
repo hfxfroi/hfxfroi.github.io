@@ -72,14 +72,12 @@ paginate_path:         /page-:num/
 accent_image:          /assets/icons/background.png
 #accent_color:          '#3fa757'    ## green leaf
 accent_color:          '#4683e9'    ## google blue
-#accent_color:          none
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
 #theme_color:           '#3fa757'    ## green leaf
 theme_color:           '#4683e9'    ## google blue
-#theme_color:           none
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
