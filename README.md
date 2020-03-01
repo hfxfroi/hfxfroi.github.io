@@ -113,12 +113,12 @@ https://help.github.com/en/articles/syncing-a-fork
 download old repo :
 
     mkdir rebuild && cd rebuild
-    wget https://github.com/lvii/lvii.github.io/archive/master.zip && unzip -x master.zip
+    wget https://github.com/hfxfroi/hfxfroi.github.io/archive/master.zip && unzip -x master.zip
 
 refork origin repo :
 
-    cd ~ && git clone git@github.com:lvii/lvii.github.io.git
-    rsync -avP -n lvii.github.io-master/ ~/lvii.github.io
+    cd ~ && git clone git@github.com:hfxfroi/hfxfroi.github.io.git
+    rsync -avP -n hfxfroi.github.io-master/ ~/hfxfroi.github.io
 
 # jekyll
 
