@@ -15,7 +15,7 @@ order: 3
 
 Just do it.
 
-``` bash
+```
 # 专业
 生物医学工程
 ```
