@@ -47,7 +47,7 @@ for line in f:
   print(line)
 ```
 
-[认识与入门 Markdown](https://sspai.com/post/25137)
+参考 [认识与入门 Markdown](https://sspai.com/post/25137)
 
 
 <br/>
