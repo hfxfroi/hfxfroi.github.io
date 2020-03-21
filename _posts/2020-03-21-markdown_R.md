@@ -2,7 +2,7 @@
 layout: post
 title: Bray-Curtis 距离矩阵
 category: R
-tags: [Markdown]
+tags: [Bray-Curtis]
 ---
 
 ```
@@ -33,4 +33,4 @@ write.table(as.matrix(dist_bray), Args[7], raw.names=TRUE, sep='\t', quote=FALSE
 ```
 
 
-`Rscript bray_distance.r input output`
+运行程序 `Rscript bray_distance.r input output`
