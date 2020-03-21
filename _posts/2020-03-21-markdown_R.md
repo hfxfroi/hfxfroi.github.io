@@ -34,3 +34,10 @@ write.table(as.matrix(dist_bray), Args[7], raw.names=TRUE, sep='\t', quote=FALSE
 
 
 运行程序 `Rscript bray_distance.r input output`
+
+
+<br/>
+
+本文标题 | [{{ page.title }}]({{ page.url }})
+-------- |:--------
+原始链接 | <{{ site.url }}{{ page.url }}>
